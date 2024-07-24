@@ -79,6 +79,10 @@ a {
     color: inherit;
 }
 
+strong {
+    color: var(--brand-color-primary);
+}
+
 a:hover {
     background: linear-gradient(
         90deg,
